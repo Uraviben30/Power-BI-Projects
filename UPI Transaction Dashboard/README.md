@@ -57,9 +57,24 @@ This Power BI dashboard provides an analytical overview of UPI (Unified Payments
 
 Screenshots:
 
+Screenshot One:
+
+
 ![dashboard-preview-one](https://github.com/user-attachments/assets/c3787eac-523e-4943-9b7b-9b2361031599)
+
+Screenshot Two:
+
+
 ![dashboard-preview-two](https://github.com/user-attachments/assets/ac969cb0-4f2b-4089-9a2e-9f09e3af02b7)
+
+Screenshot Three:
+
+
 ![dashboard-preview-three](https://github.com/user-attachments/assets/d65a6302-04c8-4723-8e34-c82dc87528b2)
+
+Screenshot Four:
+
+
 ![dashboard-preview-four](https://github.com/user-attachments/assets/8b8e6417-336d-486f-a612-3513ef853dbc)
 
 Demo:
