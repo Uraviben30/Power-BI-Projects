@@ -1,4 +1,4 @@
-# 📦 Office Supplies Sales Performance Dashboard (2024)
+# 📦 Office Supplies Sales Performance Dashboard 
 
 This Power BI dashboard offers a comprehensive view of **Office Supplies sales and profitability performance** across various dimensions such as region, segment, product category, and shipping mode. It enables users to explore sales trends, profit contributions, and category breakdowns for strategic insights.
 
