@@ -25,7 +25,6 @@ The **Loan Analysis Dashboard** is an advanced Power BI report that delivers dee
 - **YOY Default Loans Change by Year**: Line chart revealing a decline in defaults post-2015
 - **YOY Loan Amount by Credit Score Bins & Marital Status**: 📊 *Ribbon Chart* visualizing changes in loan amounts across years segmented by marital status and credit score category
 - **Loan Amount by Income Bracket and Employment Type**: 🧩 *Decomposition Tree* used to explore the relationship between income groups and employment types
-- **Loan Amount by Credit Score Bins**: Line chart confirming that medium credit scores receive the highest total loan volume
 
 ---
 
