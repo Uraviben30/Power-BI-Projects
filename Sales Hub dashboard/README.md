@@ -48,10 +48,10 @@ The dashboard is built with dynamic filters and slicers, enabling flexible explo
 
 ## 🧩 Data Sources
 
-| Source | Description |
-|--------|-------------|
-| Excel (.xlsx/.csv) | Cleaned and preprocessed sales data for import |
-| Power BI Measures | DAX-based KPIs and calculated columns |
+| Source                       | Description                                                                         |
+|------------------------------|-------------------------------------------------------------------------------------|
+| Sales-Data.xlsx              | Excel dataset containing product-level sales, orders, discounts, and profit details |
+| Sales Hub Dashboard.pbix     | Power BI file containing interactive visuals, DAX measures, and data modeling       |
 
 ---
 
