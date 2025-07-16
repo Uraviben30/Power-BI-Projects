@@ -71,6 +71,28 @@ The **Loan Analysis Dashboard** is an advanced Power BI report that delivers dee
 
 ---
 
+## 📷 Dashboard Preview
+
+Screenshots:
+
+<img width="895" height="506" alt="dashboard-preview-one" src="https://github.com/user-attachments/assets/00ae50c2-7d11-4596-afbb-a0f34a905467" />
+
+
+<img width="901" height="508" alt="dashboard-preview-two" src="https://github.com/user-attachments/assets/cbfdbdde-2750-488a-8905-a235dc4875a2" />
+
+<img width="898" height="505" alt="dashboard-preview-three" src="https://github.com/user-attachments/assets/c230e92e-9416-4f5c-b34c-183cf7f6c677" />
+
+---
+
+## 🎥 Demo
+
+
+
+https://github.com/user-attachments/assets/fef988e7-5592-4c4f-b9c5-780404481dde
+
+
+---
+
 ## 🚀 Usage
 
 1. Download or clone the repository.
