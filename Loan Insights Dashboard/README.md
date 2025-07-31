@@ -114,8 +114,11 @@ https://github.com/user-attachments/assets/fef988e7-5592-4c4f-b9c5-780404481dde
 
 ### Steps followed
 Step 1: Load data into Power BI Desktop, dataset is a csv file.
+
 Step 2: Open Power Query Editor & in view tab under Data preview section, check "column distribution," "column quality," & "column profile" options.
+
 Step 3: Since by default, profile will be opened only for 1000 rows, select "column profiling based on entire dataset."
+
 Step 4: It was observed that in none of the columns errors & empty values were present.
 
 ## 📌 DAX Formulas with Description & Purpose
